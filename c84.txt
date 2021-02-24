@@ -1,0 +1,13 @@
+We have a rover there and the background is of mars. We can move
+the rover on the canvas using keyboard arrow keys.
+!!!!!!!!!!!!!!!!!!!!!!!!
+
+<body onload="add();">
+
+Once the page is loaded, the body is loaded and this onload event will
+occur.
+● So inside this onload event we have placed an add function. This means
+when the page is loaded the add function will be called automatically.
+● We are doing this because when the page is loaded we want the canvas,
+rover and the background image to be loaded
+
